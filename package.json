@@ -1,0 +1,28 @@
+{
+  "name": "sport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-Hurinovich/Evgeniy-Hurinovich.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniy-Hurinovich/Evgeniy-Hurinovich/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-Hurinovich/Evgeniy-Hurinovich#readme"
+}
